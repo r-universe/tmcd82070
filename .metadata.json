@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mra",
+    "oncran": true
+  },
+  {
+    "package": "Rdistance",
+    "oncran": true
+  }
+]
