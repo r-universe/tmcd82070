@@ -8,8 +8,3 @@
 	url = https://github.com/tmcd82070/mra
 	shallow = true
 	registered = true
-[submodule "Rdistance"]
-	path = Rdistance
-	url = https://github.com/tmcd82070/rdistance
-	shallow = true
-	registered = true

@@ -2,8 +2,5 @@
   {
     "package": "mra",
     "oncran": true
-  },
-  {
-    "package": "Rdistance"
   }
 ]
