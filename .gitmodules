@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mra"]
-	path = mra
-	url = https://github.com/tmcd82070/mra
 [submodule "Rdistance"]
 	path = Rdistance
 	url = https://github.com/tmcd82070/rdistance
+[submodule "mra"]
+	path = mra
+	url = https://github.com/tmcd82070/mra
